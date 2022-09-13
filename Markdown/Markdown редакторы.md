@@ -1,0 +1,1 @@
+[[JntelliJ]] - [link-text](https://www.jetbrains.com/help/idea/markdown.html "intelliJ idea doc")
